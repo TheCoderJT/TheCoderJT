@@ -27,17 +27,15 @@
 <br />
 <br />
 <details>
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-</details>
-<br />
-<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="TheNamesJT's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=potasium56&show_icons=true&hide_border=true" />
+</details>
+<details>
+<summarty>:zap: Recent Activity
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
 </details>
 
 [twitter]: https://twitter.com/TheNamessJT
