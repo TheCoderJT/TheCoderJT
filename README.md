@@ -32,7 +32,7 @@
   <img align="left" alt="TheNamesJT's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=potasium56&show_icons=true&hide_border=true" />
 </details>
 <details>
-  <summarty>:zap: Recent Activity</summary>
+  <summary>:zap: Recent Activity</summary>
   <!--START_SECTION:activity-->
 
   <!--END_SECTION:activity-->
