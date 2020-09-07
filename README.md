@@ -26,7 +26,7 @@
 
 <br />
 <br />
-<details>
+<details open>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="TheNamesJT's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=potasium56&show_icons=true&hide_border=true" />
