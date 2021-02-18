@@ -43,7 +43,16 @@
 <br />
 ## Certificates
 <img align="left" width="100" height="100" src="Certs\ImageofCertificate.png">
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <details>
   <summary>:zap: Recent Activity</summary>
   <!--START_SECTION:activity-->
