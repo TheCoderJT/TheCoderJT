@@ -44,11 +44,7 @@
 
 <img align="left" width="200" height="150" src="Certs\ImageofCertificate.png">
 <img align="center" width="200" height="150" src="Certs\FreeCodeCamp.png">
-<br />
-<br />
-<br />
-<br />
-<br />
+
 <br />
 <br />
 <br />
