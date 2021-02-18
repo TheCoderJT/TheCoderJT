@@ -48,6 +48,9 @@
   <!--END_SECTION:activity-->
 </details>
 
+## Certificates
+<img align="left" width="100" height="100" src="Certs\ImageofCertificate.png">
+
 [twitter]: https://twitter.com/TheNamessJT
 [youtube]: http://www.youtube.com/c/TheNamesJT
 [instagram]: https://www.instagram.com/thenamessjt/
