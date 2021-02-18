@@ -41,15 +41,15 @@
 <br />
 <br />
 <br />
+## Certificates
+<img align="left" width="100" height="100" src="Certs\ImageofCertificate.png">
+
 <details>
   <summary>:zap: Recent Activity</summary>
   <!--START_SECTION:activity-->
 
   <!--END_SECTION:activity-->
 </details>
-
-## Certificates
-<img align="left" width="100" height="100" src="Certs\ImageofCertificate.png">
 
 [twitter]: https://twitter.com/TheNamessJT
 [youtube]: http://www.youtube.com/c/TheNamesJT
