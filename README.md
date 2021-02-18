@@ -41,7 +41,8 @@
 <br />
 <br />
 <br />
-## Certificates
+
+## Certificates:
 
 <img align="left" width="150" height="150" src="Certs\ImageofCertificate.png">
 <br />
