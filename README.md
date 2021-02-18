@@ -42,7 +42,7 @@
 
 ## Certificates:
 
-<img align="left" width="150" height="150" src="Certs\ImageofCertificate.png">
+<img align="left" width="200" height="150" src="Certs\ImageofCertificate.png">
 <br />
 <br />
 <br />
