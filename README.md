@@ -55,6 +55,6 @@
   <!--END_SECTION:activity-->
 </details>
 
-[twitter]: https://twitter.com/TheNamessJT
+<!-- [twitter]: https://twitter.com/TheNamessJT
 [youtube]: http://www.youtube.com/c/TheNamesJT
-[instagram]: https://www.instagram.com/thenamessjt/
+[instagram]: https://www.instagram.com/thenamessjt/ -->
