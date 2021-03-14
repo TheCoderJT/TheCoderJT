@@ -1,6 +1,6 @@
 
-### Hi there, I'm Jordan - aka [TheNamesJT] 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheNamesJT?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthenamessjt&screen_name=thenamessjt)
+<!-- ### Hi there, I'm Jordan - aka [TheNamesJT] 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheNamesJT?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthenamessjt&screen_name=thenamessjt) -->
 
 ## I'm a Gamer, and Aspiring Front-End Developer!
 - 🌱 I’m currently learning everything 🤣
