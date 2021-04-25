@@ -1,8 +1,8 @@
-
 <!-- ### Hi there, I'm Jordan - aka [TheNamesJT] 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/TheNamesJT?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthenamessjt&screen_name=thenamessjt) -->
 
 ## I'm a Gamer, and Aspiring Front-End Developer!
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects & To Get Out of Tutorial Hell
@@ -29,7 +29,7 @@
 <details open>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="TheNamesJT's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=potasium56&show_icons=true&hide_border=true" />
+  <img align="left" alt="TheNamesJT's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thecoderjt&show_icons=true&hide_border=true" />
 </details>
 <br />
 <br />
