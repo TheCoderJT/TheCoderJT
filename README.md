@@ -35,9 +35,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-## Certificates:
+### Certificates:
 
 <details open>
 <img align="left" width="400" height="300" src="Certs\ImageofCertificate.png">
