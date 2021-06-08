@@ -26,7 +26,7 @@
 <img align="left" alt="React" width="26px" src="https://image.flaticon.com/icons/png/512/1260/1260667.png" />
 <img align="left" alt="Postgresql" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" />
 <img align="left" alt="Node.js" width="26px" src="https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg" />
-<img align="left" alt="Redux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"/>
+<img align="left" alt="Redux" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"/>
 
 <br />
 <br />
