@@ -27,9 +27,6 @@
 <img align="left" alt="Redux" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"/>
   
 <br />
-<br />
-<br />
-<br/>
 
 ### Certifications 
 
