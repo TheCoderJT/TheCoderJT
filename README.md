@@ -29,7 +29,8 @@
 <details open>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="TheNamesJT's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thecoderjt&show_icons=true&hide_border=true" />
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCoderJT)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 <br />
 <br />
