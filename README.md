@@ -34,7 +34,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCoderJT)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
-### Certificates:
 
 <details open>
 <img align="left" width="400" height="300" src="Certs\ImageofCertificate.png">
