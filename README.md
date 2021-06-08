@@ -31,10 +31,7 @@
 <br />
 <br />
 <br />
-<details open>
-  <summary>:zap: Github Stats</summary>
- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCoderJT)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCoderJT)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
 <br/>
