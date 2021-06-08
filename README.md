@@ -37,10 +37,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-
 ## Certificates:
 
 <details open>
