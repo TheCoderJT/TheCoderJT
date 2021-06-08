@@ -9,11 +9,7 @@
 <br />
 <br />
 
-<details open>
-  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCoderJT)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 <br />
 <br />
