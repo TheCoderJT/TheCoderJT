@@ -33,17 +33,7 @@
 <br />
 <details open>
   <summary>:zap: Github Stats</summary>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCoderJT)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+ [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCoderJT)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 <br/>
 <br/>
@@ -51,6 +41,7 @@
 <br />
 <br />
 <br />
+
 ### Certificates:
 
 <details open>
