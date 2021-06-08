@@ -28,9 +28,7 @@
 <br />
 <details open>
   <summary>:zap: Github Stats</summary>
-
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCoderJT)](https://github.com/anuraghazra/github-readme-stats)
-
 </details>
 <br />
 <br />
@@ -45,12 +43,6 @@
 <br />
 <br />
 <br />
-<details>
-  <summary>:zap: Recent Activity</summary>
-  <!--START_SECTION:activity-->
-
-  <!--END_SECTION:activity-->
-</details>
 
 <!-- [twitter]: https://twitter.com/TheNamessJT
 [youtube]: http://www.youtube.com/c/TheNamesJT
