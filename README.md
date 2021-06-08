@@ -11,6 +11,7 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCoderJT)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
+
 <!-- ### Connect with me:
 [<img align="left" alt="TheNamesJT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="TheNamesJT | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
