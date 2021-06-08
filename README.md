@@ -35,7 +35,7 @@
 
 <br/>
 
-<details open>
+<Certifications open>
 <img align="left" width="400" height="300" src="Certs\ImageofCertificate.png">
 <img align="center" width="400" height="300" src="Certs\FreeCodeCamp.png">
 <img align="center" width="400" height="300" src="Certs/ZeroToMasteryCertification.jpg">
