@@ -8,7 +8,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects & To Get Out of Tutorial Hell
 <br />
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCoderJT)](https://github.com/anuraghazra/github-readme-stats)
+<!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCoderJT)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCoderJT&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages and Tools:
