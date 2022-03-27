@@ -30,7 +30,7 @@
 <br />
 <br />
 
-### Certifications 
+<!-- ### Certifications  -->
 
 <!-- <img align="left" width="400" height="300" src="Certs\ImageofCertificate.png">
 <img align="center" width="400" height="300" src="Certs\FreeCodeCamp.png">
